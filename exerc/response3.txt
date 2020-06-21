@@ -1,0 +1,8 @@
+--------------------------------
+Author: Philip S. Yu:
+- Word(s) in first place: web, data => counter: 7
+- Word(s) in second place: distributed => counter: 6
+--------------------------------
+Author: Grzegorz Rozenberg:
+- Word(s) in first place: grammars => counter: 11
+- Word(s) in second place: systems => counter: 10

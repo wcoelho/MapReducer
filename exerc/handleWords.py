@@ -12,7 +12,7 @@ def fixAccents(text):
     return str(text)
 
 def removePonctuation(text):
-    punctuations = '''!()[]{};:'",<>.?@#$%^&*~`'''
+    punctuations = '''!()[]{};:'",<>.?\@#$%^&*~`'''
     no_punct = ""
     # remove ponctuations
     for char in text:
